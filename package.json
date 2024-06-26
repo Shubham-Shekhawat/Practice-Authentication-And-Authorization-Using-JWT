@@ -4,7 +4,6 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "react-scripts start",
     "predeploy" : "npm run build",
     "deploy" :"gh-pages -d dist",
     "build" : "react-scripts build"
